@@ -68829,7 +68829,7 @@ A.FB.prototype={
 K(a){var s=null,r=A.dt(20),q=A.a([B.as,B.cl],t.O)
 return A.nJ(!1,s,!0,A.dg(B.a1,A.eF(A.a([A.d6("Download CV",s,s,A.au(a).p2.ax.Ll(B.i,B.a5,1.2)),B.PC,B.G2],t.p),B.F,B.B,B.O),B.w,s,s,new A.cC(s,s,s,r,B.hs,new A.fM(B.xm,B.xl,B.aR,q,s,s),B.a3),s,s,s,B.Fj,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.XO(),s,s,s,s)}}
 A.XO.prototype={
-$0(){A.jy(A.dP("https://drive.google.com/file/d/1HSIe7rdk8VtrAL4DQuybfMHQgDrQ6xNs/view?usp=sharing",0,null))},
+$0(){A.jy(A.dP("https://drive.google.com/file/d/1W_znjpiF6BgL_lSo1cmQhYwXVUt96q60/view?usp=drive_link",0,null))},
 $S:0}
 A.o7.prototype={
 K(a){return new A.hM(new A.a4l(this),null)}}
